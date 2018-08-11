@@ -1,4 +1,4 @@
-# OS Multithreaded Web Server
+# OS Multithread Web Server
 In this project repository, a multithreaded web server is implemented in Java to handle concurrent user requests.
 
 This web server's performance to handle multiple requests is evaluated by comparing several scheduling algorithms used
